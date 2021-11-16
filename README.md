@@ -18,6 +18,7 @@
 | 12 | run3 | not tested. FEBs problematic |
 
 ## Tiles' specs.
+(from Simone)
 | PDU position   | TILE name    | Technology |  photocurrent (μA) | notes (nt = not tested (PDM), ot = tile tested) |
 | :------------: | :----------: | :-------: | :----------: | -------: |
 | 1 | T128 | run3 | -20 | |
@@ -50,7 +51,7 @@
 ## Warm IVs 11/11/2021 19:07-19:39 CEST Naples
 ### IVs
 ![IV_tot_f](https://user-images.githubusercontent.com/75016958/142066592-ef2d97b7-2da4-4fd5-bd7c-880adddacea6.png)
-PDM6 arrived dead (broken wire bonding) and PDM17 showed extra current (expected from tests in Pisa)
+PDM6 arrived dead (broken wire bonding) and PDM17 showed extra current (not a good device anyways)
 ### 70V current-channel distribution
 ![IV_70](https://user-images.githubusercontent.com/75016958/142066749-1bad2719-9e87-4db6-81ed-e0e75efd04f5.png)
 ### 75V "good" channels current distribution + fit

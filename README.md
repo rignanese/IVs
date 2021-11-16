@@ -19,7 +19,7 @@
 
 ## Tiles' specs.
 (from Simone)
-| PDU position   | TILE name    | Technology |  photocurrent (μA) | notes (nt = not tested (PDM), ot = tile tested) |
+| PDU position   | TILE name    | Technology |  photocurrent (μA) | notes (nt = not tested, ot = only-tile test) |
 | :------------: | :----------: | :-------: | :----------: | -------: |
 | 1 | T128 | run3 | -20 | |
 | 2 | T119 | run3 | -50 | |
@@ -40,11 +40,11 @@
 | 17 | T124 | run3 | -50 | |
 | 18 | T164 | AlCu | -49 | |
 | 19 | T149 | AlCu | -20 | |
-| 20 | T112 | run3 | -40 | nt, maybe scratched |
+| 20 | T112 | run3 | -40 | nt, scratches |
 | 21 | T116 | run3 | -49 | nt |
 | 22 | T103 | run3 | -20 | nt |
-| 23 | T102 | run3 | -49 | nt, feb bendend pin recovered |
-| 24 | T131 | run3 | -20 | nt, feb anomalous cussent drain |
+| 23 | T102 | run3 | -49 | nt, feb bendt pin recovered |
+| 24 | T131 | run3 | -20 | nt, feb anomalous current drain |
 | 25 | T120 | run3 | -49 | nt, in a bad shape |
 
 

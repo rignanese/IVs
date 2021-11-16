@@ -1,5 +1,5 @@
 # IVs
-## Tiles' specs.
+## Channels' specs.
 (from Simone)
 
 | Channel number | RUN/backside | comment |
@@ -16,6 +16,36 @@
 | 10 | AlCu | T149 good, probable double peaks the other |
 | 11 | run3 | not tested |
 | 12 | run3 | not tested. FEBs problematic |
+
+## Tiles' specs.
+| PDU position   | TILE name    | Technology |  photocurrent (μA) | notes (nt = not tested (PDM), ot = tile tested) |
+| :------------: | :----------: | :-------: | :----------: | -------: |
+| 1 | T128 | run3 | -20 | |
+| 2 | T119 | run3 | -50 | |
+| 3 | T140 | AlSi | -50 | |
+| 4 | T144 | AlSi | -44 | nt |
+| 5 | T166 | AlCu | -21 | ot |
+| 6 | T139 | AlSi | -50 | ot |
+| 7 |  T157 | AlSi | -48 | ot |
+| 8 |  T118 | run3 | -50 | |
+| 9 |  T121 | run3 | -49 | |
+| 10 |  T159 | AlCu |-38 | ot |
+| 11 |  T168 | AlSi | -20 | ot |
+| 12 | T141 | AlSi | -20 | ot |
+| 13 | T146 | AlSi | -49 | |
+| 14 | T170 | AlCu | -20 | |
+| 15 | T114 | run3 | -49 | nt |
+| 16 | T127 | run3 | -20 | |
+| 17 | T124 | run3 | -50 | |
+| 18 | T164 | AlCu | -49 | |
+| 19 | T149 | AlCu | -20 | |
+| 20 | T112 | run3 | -40 | nt, maybe scratched |
+| 21 | T116 | run3 | -49 | nt |
+| 22 | T103 | run3 | -20 | nt |
+| 23 | T102 | run3 | -49 | nt, feb bendend pin recovered |
+| 24 | T131 | run3 | -20 | nt, feb anomalous cussent drain |
+| 25 | T120 | run3 | -49 | nt, in a bad shape |
+
 
 ## Warm IVs 11/11/2021 19:07-19:39 CEST Naples
 ### IVs

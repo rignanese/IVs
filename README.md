@@ -1,21 +1,5 @@
 # IVs
-## Channels' specs.
-(from Simone)
 
-| Channel number | RUN/backside | comment |
-| :------------: | :----------: | ------- |
-| 1 | run3 | double peaks expected |
-| 2 | AlSi | 140 ok, 144 not tested. probable wire bonding boken on both |
-| 3 | AlCu | double peaks expected |
-| 4 | AlSi | likely good |
-| 5 | run3 | ok |
-| 6 | AlSi | double peaks expected |
-| 7 | AlSi + AlCu | ok
-| 8 | run3 | not tested |
-| 9 | run3 | double peaks expected |
-| 10 | AlCu | T149 good, probable double peaks the other |
-| 11 | run3 | not tested |
-| 12 | run3 | not tested. FEBs problematic |
 
 ## Tiles' specs.
 (from Simone)
@@ -56,3 +40,40 @@ PDM6 arrived dead (broken wire bonding) and PDM17 showed extra current (not a go
 ![IV_70](https://user-images.githubusercontent.com/75016958/142066749-1bad2719-9e87-4db6-81ed-e0e75efd04f5.png)
 ### 75V "good" channels current distribution + fit
 ![75V_distr](https://user-images.githubusercontent.com/75016958/142066803-8e7ff2d0-4f70-4a5d-8761-1511aa3ed66d.png)
+
+
+### PDM map
+| 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|
+| 6 | 7 | 8 | 9 | 10 |
+| 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 |
+| 21 | 22 | 23 | 24 | 25 |
+### CH map
+| 1 | 1 | 2 | 2 | 5 |
+|---|---|---|---|---|
+| 3| 3 | 4 | 4 | 5 |
+| 6 | 6 | 7 | 7 | 8 |
+| 9 | 9 | 10 | 10 | 8 |
+| 11 | 11 | 12 | 12 | 13 |
+
+
+
+## Channels' specs.
+(from Simone)
+
+| Channel number | RUN/backside | comment |
+| :------------: | :----------: | ------- |
+| 1 | run3 | double peaks expected |
+| 2 | AlSi | 140 ok, 144 not tested. probable wire bonding boken on both |
+| 3 | AlCu | double peaks expected |
+| 4 | AlSi | likely good |
+| 5 | run3 | ok |
+| 6 | AlSi | double peaks expected |
+| 7 | AlSi + AlCu | ok
+| 8 | run3 | not tested |
+| 9 | run3 | double peaks expected |
+| 10 | AlCu | T149 good, probable double peaks the other |
+| 11 | run3 | not tested |
+| 12 | run3 | not tested. FEBs problematic |
+

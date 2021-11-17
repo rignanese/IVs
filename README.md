@@ -3,7 +3,7 @@
 
 ## Tiles' specs.
 (from Simone)
-| PDU position   | TILE name    | Technology |  photocurrent (μA) | notes (nt = not tested, ot = only-tile test) |
+| PDU position   | TILE name    | Technology |  photocurrent (μA) | note (nt = not tested, ot = only-tile test) |
 | :------------: | :----------: | :-------: | :----------: | -------: |
 | 1 | T128 | run3 | -20 | |
 | 2 | T119 | run3 | -50 | |
@@ -65,7 +65,7 @@ PDM6 arrived dead (broken wire bonding) and PDM17 showed extra current (not a go
 ## Channels' specs.
 (from Simone)
 
-| Channel number | RUN/backside | comment |
+| Channel number | Technology | comment |
 | :------------: | :----------: | ------- |
 | 1 | run3 | double peaks expected |
 | 2 | AlSi | 140 ok, 144 not tested. probable wire bonding boken on both |

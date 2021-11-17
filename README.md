@@ -37,11 +37,12 @@
 ![IV_tot_f](https://user-images.githubusercontent.com/75016958/142066592-ef2d97b7-2da4-4fd5-bd7c-880adddacea6.png)
 PDM6 arrived dead (broken wire bonding) and PDM17 showed extra current (not a good device anyway) and are switched off.
  ### 75V current-channel distribution
-[75V_clean](https://user-images.githubusercontent.com/75016958/142195353-16a2addb-9ea2-4c2a-b891-231829dff24e.png)
+ 
+![75V_clean](https://user-images.githubusercontent.com/75016958/142195353-16a2addb-9ea2-4c2a-b891-231829dff24e.png)
 
 
 ### 75V hist current distribution + fit
-![75V_distr](https://user-images.githubusercontent.com/75016958/142066803-8e7ff2d0-4f70-4a5d-8761-1511aa3ed66d.png)
+![75V_fit](https://user-images.githubusercontent.com/75016958/142198595-9931e6f6-344f-4140-92be-074ed490c8da.png)
 
 
 ### PDM map

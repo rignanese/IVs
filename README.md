@@ -27,15 +27,16 @@
 | 20 | T112 | run3 | -40 | nt, scratches |
 | 21 | T116 | run3 | -49 | nt |
 | 22 | T103 | run3 | -20 | nt |
-| 23 | T102 | run3 | -49 | nt, feb bendt pin recovered |
-| 24 | T131 | run3 | -20 | nt, feb anomalous current drain |
+| 23 | T102 | run3 | -49 | nt, feb: bent pin recovered |
+| 24 | T131 | run3 | -20 | nt, feb: anomalous current |
 | 25 | T120 | run3 | -49 | nt, in a bad shape |
 
 
 ## Warm IVs 11/11/2021 19:07-19:39 CEST Naples
 ### IVs
 ![IV_tot_f](https://user-images.githubusercontent.com/75016958/142066592-ef2d97b7-2da4-4fd5-bd7c-880adddacea6.png)
-PDM6 arrived dead (broken wire bonding) and PDM17 showed extra current (not a good device anyway) and are switched off.
+PDM6 arrived dead (broken wire bonding) and PDM17 showed extra current (not good devices anyway) and are switched off.
+ 
  ### 75V current-channel distribution
  
 ![75V_clean](https://user-images.githubusercontent.com/75016958/142195353-16a2addb-9ea2-4c2a-b891-231829dff24e.png)
@@ -78,5 +79,5 @@ PDM6 arrived dead (broken wire bonding) and PDM17 showed extra current (not a go
 | 9 | run3 | double peaks expected |
 | 10 | AlCu | T149 good, probable double peaks the other |
 | 11 | run3 | not tested |
-| 12 | run3 | not tested. FEBs problematic |
+| 12 | run3 | not tested. Problematic FEBs |
 
